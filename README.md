@@ -113,12 +113,3 @@ This is a backend API built with Node.js and Express.js designed to **analyze an
 *   **Scalability and Performance Optimizations:**  Consider optimizations for handling a large volume of resumes and API requests, especially if deploying to production.
 
 ---
-
-**Feel free to customize this README further!** You can add:
-
-*   **Project Logo/Banner:**  Make it visually appealing.
-*   **More detailed explanations** of specific features or implementation choices.
-*   **Contribution guidelines** if you want to encourage others to contribute to the project.
-*   **License information.**
-
-Let me know if you'd like me to refine any part of this README or add more details!
